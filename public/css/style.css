@@ -193,7 +193,7 @@ a {
 }
 
 @media (max-width: 365px) {
-  .btn {
+  .btn-send {
     padding: 2px 10px;
     font-size: 12px;
   }
